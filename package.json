@@ -2,9 +2,10 @@
   "name": "sass-live",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
-    "start": "sass --watch main.scss main.css"
+    "start": "sass --watch main.scss main.css",
+    "build": "parcel build index.html --dist-dir build --public-url ./",
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,10 @@
   },
   "homepage": "https://github.com/drmskrblt/sass-live#readme",
   "dependencies": {
+    "parcel": "^2.8.3",
     "sass": "^1.59.3"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
