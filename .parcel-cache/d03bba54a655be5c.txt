@@ -2537,7 +2537,7 @@
 62/home/durmus/Desktop/sass-live/node_modules/@parcel/source-map1679317806828198996 1
 73/home/durmus/Desktop/sass-live/node_modules/posthtml-render/dist/index.js1679317806144244915 0
 76/home/durmus/Desktop/sass-live/node_modules/nth-check/lib/esm/parse.d.ts.map1679317806340231758 0
-40/home/durmus/Desktop/sass-live/main.scss1679317669828079733 0
+40/home/durmus/Desktop/sass-live/main.scss1679318144369554748 0
 63/home/durmus/Desktop/sass-live/node_modules/immutable/README.md1679317597234360484 0
 66/home/durmus/Desktop/sass-live/node_modules/nth-check/lib/index.js1679317806212240350 0
 66/home/durmus/Desktop/sass-live/node_modules/@parcel/diagnostic/lib1679317806264236859 1
@@ -3434,7 +3434,7 @@
 92/home/durmus/Desktop/sass-live/node_modules/@parcel/core/test/fixtures/main-mjs/package.json1679317806868196310 0
 92/home/durmus/Desktop/sass-live/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb1679317806844197921 1
 71/home/durmus/Desktop/sass-live/node_modules/binary-extensions/readme.md1679317597222360683 0
-43/home/durmus/Desktop/sass-live/package.json1679317940345591808 0
+43/home/durmus/Desktop/sass-live/package.json1679318175938831056 0
 76/home/durmus/Desktop/sass-live/node_modules/nth-check/lib/esm/compile.js.map1679317806312233637 0
 85/home/durmus/Desktop/sass-live/node_modules/caniuse-lite/data/features/geolocation.js1679317806884195236 0
 73/home/durmus/Desktop/sass-live/node_modules/@lezer/common/dist/parse.d.ts1679317806320233100 0
