@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "start": "sass --watch main.scss main.css",
-    "build": "parcel build index.html --dist-dir build --public-url /",
+    "build": "parcel build index.html --dist-dir build --public-url ./",
     "deploy": "gh-pages -d build"
   },
   "repository": {

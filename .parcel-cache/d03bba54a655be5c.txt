@@ -2100,7 +2100,7 @@
 77/home/durmus/Desktop/sass-live/node_modules/async/internal/promiseCallback.js1679317777934096901 0
 65/home/durmus/Desktop/sass-live/node_modules/fs-extra/CHANGELOG.md1679317777894099462 0
 53/home/durmus/Desktop/sass-live/node_modules/path-type1679317806152244378 1
-62/home/durmus/Desktop/sass-live/node_modules/.package-lock.json1679317940357595869 0
+62/home/durmus/Desktop/sass-live/node_modules/.package-lock.json1679318281428350860 0
 72/home/durmus/Desktop/sass-live/node_modules/fs-extra/lib/remove/index.js1679317777914098182 0
 58/home/durmus/Desktop/sass-live/node_modules/sass/README.md1679317597246360284 0
 66/home/durmus/Desktop/sass-live/node_modules/commondir/test/dirs.js1679317777898099205 0
@@ -2628,7 +2628,7 @@
 84/home/durmus/Desktop/sass-live/node_modules/@parcel/transformer-postcss/node_modules1679317807760136355 1
 86/home/durmus/Desktop/sass-live/node_modules/parcel/node_modules/commander/CHANGELOG.md1679317806268236591 0
 65/home/durmus/Desktop/sass-live/node_modules/anymatch/package.json1679317597222360683 0
-48/home/durmus/Desktop/sass-live/package-lock.json1679317940345591808 0
+48/home/durmus/Desktop/sass-live/package-lock.json1679318281416350854 0
 71/home/durmus/Desktop/sass-live/node_modules/lmdb/src/ordered-binary.cpp1679317806760203560 0
 75/home/durmus/Desktop/sass-live/node_modules/caniuse-lite/data/regions/AM.js1679317806456223969 0
 58/home/durmus/Desktop/sass-live/node_modules/source-map/lib1679317806340231758 1
@@ -2954,7 +2954,7 @@
 95/home/durmus/Desktop/sass-live/node_modules/@babel/highlight/node_modules/ansi-styles/readme.md1679317806168243304 0
 64/home/durmus/Desktop/sass-live/node_modules/array-uniq/readme.md1679317777886099974 0
 74/home/durmus/Desktop/sass-live/node_modules/@babel/code-frame/lib/index.js1679317806152244378 0
-61/home/durmus/Desktop/sass-live/node_modules/@msgpackr-extract1679317940301576921 1
+61/home/durmus/Desktop/sass-live/node_modules/@msgpackr-extract1679318281368350831 1
 66/home/durmus/Desktop/sass-live/node_modules/@parcel/compressor-raw1679317806196241424 1
 98/home/durmus/Desktop/sass-live/node_modules/@parcel/runtime-browser-hmr/src/loaders/hmr-runtime.js1679317806264236859 0
 72/home/durmus/Desktop/sass-live/node_modules/@parcel/logger/lib/Logger.js1679317806148244647 0
@@ -3318,7 +3318,7 @@
 72/home/durmus/Desktop/sass-live/node_modules/node-releases/data/processed1679317806140245184 1
 99/home/durmus/Desktop/sass-live/node_modules/@swc/helpers/src/_class_static_private_field_update.mjs1679317806696207857 0
 61/home/durmus/Desktop/sass-live/node_modules/pify/package.json1679317777874100743 0
-43/home/durmus/Desktop/sass-live/node_modules1679317940301576921 1
+43/home/durmus/Desktop/sass-live/node_modules1679318281368350831 1
 89/home/durmus/Desktop/sass-live/node_modules/@parcel/runtime-js/lib/helpers/cacheLoader.js1679317806276236053 0
 95/home/durmus/Desktop/sass-live/node_modules/@parcel/optimizer-htmlnano/lib/HTMLNanoOptimizer.js1679317806144244915 0
 74/home/durmus/Desktop/sass-live/node_modules/escape-string-regexp/readme.md1679317777886099974 0
@@ -3434,7 +3434,7 @@
 92/home/durmus/Desktop/sass-live/node_modules/@parcel/core/test/fixtures/main-mjs/package.json1679317806868196310 0
 92/home/durmus/Desktop/sass-live/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb1679317806844197921 1
 71/home/durmus/Desktop/sass-live/node_modules/binary-extensions/readme.md1679317597222360683 0
-43/home/durmus/Desktop/sass-live/package.json1679318175938831056 0
+43/home/durmus/Desktop/sass-live/package.json1679318338312103508 0
 76/home/durmus/Desktop/sass-live/node_modules/nth-check/lib/esm/compile.js.map1679317806312233637 0
 85/home/durmus/Desktop/sass-live/node_modules/caniuse-lite/data/features/geolocation.js1679317806884195236 0
 73/home/durmus/Desktop/sass-live/node_modules/@lezer/common/dist/parse.d.ts1679317806320233100 0
@@ -4594,7 +4594,7 @@
 78/home/durmus/Desktop/sass-live/node_modules/svgo/plugins/removeRasterImages.js1679317806556217256 0
 65/home/durmus/Desktop/sass-live/node_modules/async/filterSeries.js1679317777926097413 0
 79/home/durmus/Desktop/sass-live/node_modules/svgo/lib/svgo/css-select-adapter.js1679317806464223432 0
-49/home/durmus/Desktop/sass-live/node_modules/@lmdb1679317940301576921 1
+49/home/durmus/Desktop/sass-live/node_modules/@lmdb1679318281368350831 1
 65/home/durmus/Desktop/sass-live/node_modules/svgo/lib/css-tools.js1679317806476222627 0
 60/home/durmus/Desktop/sass-live/node_modules/svgo/lib/svgo.js1679317806716206514 0
 64/home/durmus/Desktop/sass-live/node_modules/@swc/helpers/scripts1679317806580215645 1
